@@ -71,6 +71,7 @@ These two icons were drawn as badges for specific textbook sections. They live h
 | `emoji/left-click.svg` | Mouse with the left button highlighted |
 | `emoji/linux.svg` | Cartoon penguin, used to mark Linux |
 | `emoji/lol.svg` | Laughing face |
+| `emoji/love-bug.svg` | Ladybug with a coral love heart |
 | `emoji/mac.svg` | Compact computer with a four-circle grid on the screen |
 | `emoji/mac_mini.svg` | Small silver desktop box |
 | `emoji/mad.svg` | Angry face |

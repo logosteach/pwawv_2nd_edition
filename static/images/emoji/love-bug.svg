@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="love-bug">
+  <title>love-bug</title>
+  <g fill="none" stroke="#0E6F86" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- antennae -->
+    <path d="M26 14 L20 6"/>
+    <path d="M38 14 L44 6"/>
+    <!-- legs -->
+    <path d="M17 30 L7 26"/>
+    <path d="M16 39 L5 39"/>
+    <path d="M17 48 L8 54"/>
+    <path d="M47 30 L57 26"/>
+    <path d="M48 39 L59 39"/>
+    <path d="M47 48 L56 54"/>
+  </g>
+  <!-- head -->
+  <circle cx="32" cy="18" r="8" fill="#0E6F86"/>
+  <!-- body -->
+  <ellipse cx="32" cy="39" rx="16" ry="19" fill="#E24A1C" stroke="#0E6F86" stroke-width="3"/>
+  <!-- wing split -->
+  <path d="M32 21 L32 57" stroke="#0E6F86" stroke-width="3" stroke-linecap="round"/>
+  <!-- spots -->
+  <circle cx="24" cy="33" r="3.2" fill="#FDC02A"/>
+  <circle cx="40" cy="33" r="3.2" fill="#FDC02A"/>
+  <circle cx="25" cy="46" r="2.8" fill="#FDC02A"/>
+  <circle cx="39" cy="46" r="2.8" fill="#FDC02A"/>
+  <!-- coral love heart, upper right (same shape as :heart:, teal outline to match the bug) -->
+  <g transform="translate(41.5,1) scale(0.33)">
+    <path d="M32 56 C20 47 6 37 6 22.5 C6 14 12.5 8 20 8 C25.5 8 29.6 11 32 15.5 C34.4 11 38.5 8 44 8 C51.5 8 58 14 58 22.5 C58 37 44 47 32 56 Z" fill="#E24A1C" stroke="#0E6F86" stroke-width="6.5" stroke-linejoin="round"/>
+  </g>
+</svg>
