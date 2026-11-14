@@ -27,7 +27,7 @@ jsDelivr caches the `@main` branch for up to about 12 hours, so a change pushed 
 ## Folders
 
 - `icons/` — section badges and the generic course anchor
-- `emoji/` — small icons used in the lessons (faces, devices, actions, and editor buttons)
+- `emoji/` — small icons used in the lessons (faces, devices, actions, arrows, and editor buttons)
 - `emoji/steps/` — numbered step badges for lab instructions (1–50)
 
 ## Custom textbook badges
@@ -53,6 +53,13 @@ These two icons were drawn as badges for specific textbook sections. They live h
 
 | File | Description |
 | --- | --- |
+| `emoji/arrow-curve.svg` | Curved “leads to” arrow, in textbook teal |
+| `emoji/arrow-down.svg` | Down arrow, in textbook teal |
+| `emoji/arrow-left.svg` | Left arrow, in textbook teal |
+| `emoji/arrow-left-right.svg` | Bidirectional left-right arrow, in textbook teal |
+| `emoji/arrow-right.svg` | Right arrow, in textbook teal |
+| `emoji/arrow-right-circle.svg` | White right arrow in a filled teal circle |
+| `emoji/arrow-up.svg` | Up arrow, in textbook teal |
 | `emoji/bug.svg` | Same stylized bug as `icons/bug.svg` |
 | `emoji/code-editor.svg` | Same editor tile as `icons/code-editor.svg`, with a slightly heavier outline |
 | `emoji/coding-in-history.svg` | Same parchment badge as `icons/coding-in-history.svg` |
