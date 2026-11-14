@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="uncertain-worried">
+  <title>uncertain-worried</title>
+  <circle cx="32" cy="32" r="27.5" fill="#FDC02A" stroke="#0E6F86" stroke-width="4"/>
+  <path d="M15 22 A19 19 0 0 1 26 12.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M15.5 21 Q20 16.5 27 17" fill="none" stroke="#1A2B3C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M48.5 21 Q44 16.5 37 17" fill="none" stroke="#1A2B3C" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="23" cy="28" rx="3.4" ry="4.6" fill="#1A2B3C"/>
+  <ellipse cx="41" cy="28" rx="3.4" ry="4.6" fill="#1A2B3C"/>
+  <path d="M21 45 Q24.5 41.5 28 44.5 Q31.5 47.5 35 44.5 Q38.5 41.5 43 44.5" fill="none" stroke="#1A2B3C" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M51 13 Q46.5 19.5 47 22.5 A4.2 4.2 0 0 0 55.2 21.5 Q55 17.5 51 13 Z" fill="#7BD2DE" stroke="#0E6F86" stroke-width="2" stroke-linejoin="round"/>
+</svg>

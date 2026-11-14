@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="whistle">
+  <title>whistle</title>
+  <g transform="translate(0 -5)">
+  <g stroke="#E24A1C" stroke-width="3.4" stroke-linecap="round">
+    <path d="M55.5 21.5 L60.5 16.5"/><path d="M57 30 H62.5"/><path d="M55.5 38.5 L60.5 43.5"/>
+  </g>
+  <circle cx="11.5" cy="26" r="5" fill="none" stroke="#0E6F86" stroke-width="3.2"/>
+  <path d="M24 25 H49.5 Q52.5 25 52.5 28 V33 Q52.5 36 49.5 36 H37.7 A15 15 0 1 1 24 25 Z" fill="#FDC02A" stroke="#1A2B3C" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="29" y="23.5" width="9" height="6" rx="1.5" fill="#1A2B3C"/>
+  <circle cx="24" cy="40" r="6" fill="#0E6F86" stroke="#1A2B3C" stroke-width="2.2"/>
+  <path d="M14.5 37 A10.5 10.5 0 0 1 19 30.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.6" stroke-width="2.6" stroke-linecap="round"/>
+  </g>
+</svg>

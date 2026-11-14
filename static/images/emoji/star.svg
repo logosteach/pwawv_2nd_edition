@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="star">
+  <title>star</title>
+  <path d="M32 4.5 L39.6 21.2 L57.8 23.2 L44.2 35.5 L48 53.5 L32 44.3 L16 53.5 L19.8 35.5 L6.2 23.2 L24.4 21.2 Z" fill="#FDC02A" stroke="#1A2B3C" stroke-width="3.2" stroke-linejoin="round"/>
+  <path d="M27 24.5 L30.5 16.5" stroke="#FFFFFF" stroke-opacity="0.7" stroke-width="3" stroke-linecap="round"/>
+</svg>

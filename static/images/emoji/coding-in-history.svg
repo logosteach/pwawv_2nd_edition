@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="coding in history">
+  <title>Coding in History</title>
+  <g transform="translate(32 32) scale(1.28) translate(-32 -32)">
+    <!-- parchment body, tucked under the rolls -->
+    <path d="M17 16 H47 V48 H17 Z" fill="#F8E6B8" stroke="#5C3A21" stroke-width="2" stroke-linejoin="round"/>
+    <!-- bottom roll -->
+    <rect x="11" y="42" width="42" height="12" rx="6" fill="#E0B56A" stroke="#5C3A21" stroke-width="2"/>
+    <rect x="20" y="44.2" width="24" height="3.2" rx="1.6" fill="#F3D7A0"/>
+    <ellipse cx="13.4" cy="48" rx="2.3" ry="4.1" fill="#6B4226"/>
+    <ellipse cx="13.4" cy="48" rx="1" ry="1.8" fill="#C99658"/>
+    <!-- top roll -->
+    <rect x="11" y="10" width="42" height="12" rx="6" fill="#E0B56A" stroke="#5C3A21" stroke-width="2"/>
+    <rect x="20" y="12.2" width="24" height="3.2" rx="1.6" fill="#F3D7A0"/>
+    <ellipse cx="13.4" cy="16" rx="2.3" ry="4.1" fill="#6B4226"/>
+    <ellipse cx="13.4" cy="16" rx="1" ry="1.8" fill="#C99658"/>
+    <!-- </> code motif -->
+    <g fill="none" stroke="#E24A1C" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M23.8 24.5 L18 32 L23.8 39.5"/>
+      <path d="M35.6 24.5 L28.4 39.5"/>
+      <path d="M40.2 24.5 L46 32 L40.2 39.5"/>
+    </g>
+  </g>
+</svg>

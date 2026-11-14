@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="mad">
+  <title>mad</title>
+  <circle cx="32" cy="32" r="27.5" fill="#F06024" stroke="#0E6F86" stroke-width="4"/>
+  <path d="M15 22 A19 19 0 0 1 26 12.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M14.5 17.5 L27.5 23.5" stroke="#1A2B3C" stroke-width="4.2" stroke-linecap="round"/>
+  <path d="M49.5 17.5 L36.5 23.5" stroke="#1A2B3C" stroke-width="4.2" stroke-linecap="round"/>
+  <ellipse cx="23" cy="29" rx="3.4" ry="4" fill="#1A2B3C"/>
+  <ellipse cx="41" cy="29" rx="3.4" ry="4" fill="#1A2B3C"/>
+  <path d="M20.5 46.5 Q32 38.5 43.5 46.5" fill="none" stroke="#1A2B3C" stroke-width="4" stroke-linecap="round"/>
+</svg>

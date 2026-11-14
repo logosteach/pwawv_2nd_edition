@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="ticket">
+  <title>ticket</title>
+  <path fill="#FD9C1F" stroke="#1A2B3C" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"
+        d="M9 16 H20 A4 4 0 0 1 28 16 H55 A4 4 0 0 1 59 20 V26.5 A5.5 5.5 0 0 1 59 37.5 V44 A4 4 0 0 1 55 48 H28 A4 4 0 0 1 20 48 H9 A4 4 0 0 1 5 44 V37.5 A5.5 5.5 0 0 1 5 26.5 V20 A4 4 0 0 1 9 16 Z"/>
+  <path d="M24 22 V42" fill="none" stroke="#0E6F86" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="2.2 3.4"/>
+  <path d="M16.2 27.1 L17.38 30.38 L20.86 30.49 L18.1 32.62 L19.08 35.96 L16.2 34 L13.32 35.96 L14.3 32.62 L11.54 30.49 L15.02 30.38 Z" fill="#0E6F86"/>
+  <path d="M31 25 H52 M31 32 H48 M31 39 H44" fill="none" stroke="#0E6F86" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M32 20.5 H51" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="2" stroke-linecap="round"/>
+</svg>

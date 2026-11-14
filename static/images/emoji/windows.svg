@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="windows">
+  <title>windows</title>
+  <rect x="7" y="7" width="23" height="23" rx="5" fill="#0E6F86" stroke="#1A2B3C" stroke-width="2.6"/>
+  <path d="M12 19 V15 Q12 12 15 12 H19" fill="none" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="34" y="7" width="23" height="23" rx="5" fill="#0E6F86" stroke="#1A2B3C" stroke-width="2.6"/>
+  <path d="M39 19 V15 Q39 12 42 12 H46" fill="none" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="7" y="34" width="23" height="23" rx="5" fill="#0E6F86" stroke="#1A2B3C" stroke-width="2.6"/>
+  <path d="M12 46 V42 Q12 39 15 39 H19" fill="none" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="34" y="34" width="23" height="23" rx="5" fill="#0E6F86" stroke="#1A2B3C" stroke-width="2.6"/>
+  <path d="M39 46 V42 Q39 39 42 39 H46" fill="none" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="2.4" stroke-linecap="round"/>
+</svg>

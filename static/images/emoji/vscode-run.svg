@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="run">
+  <title>run</title>
+  <!-- Original play triangle (not Microsoft codicon path data). VS Code light-theme start green. -->
+  <path d="M22 11 L53 32 L22 53 Z" fill="#388A34" stroke="#1A2B3C" stroke-width="3" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="bug">
+  <title>bug</title>
+  <g fill="none" stroke="#0E6F86" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- antennae -->
+    <path d="M26 14 L20 6"/>
+    <path d="M38 14 L44 6"/>
+    <!-- legs -->
+    <path d="M17 30 L7 26"/>
+    <path d="M16 39 L5 39"/>
+    <path d="M17 48 L8 54"/>
+    <path d="M47 30 L57 26"/>
+    <path d="M48 39 L59 39"/>
+    <path d="M47 48 L56 54"/>
+  </g>
+  <!-- head -->
+  <circle cx="32" cy="18" r="8" fill="#0E6F86"/>
+  <!-- body -->
+  <ellipse cx="32" cy="39" rx="16" ry="19" fill="#E24A1C" stroke="#0E6F86" stroke-width="3"/>
+  <!-- wing split -->
+  <path d="M32 21 L32 57" stroke="#0E6F86" stroke-width="3" stroke-linecap="round"/>
+  <!-- spots -->
+  <circle cx="24" cy="33" r="3.2" fill="#FDC02A"/>
+  <circle cx="40" cy="33" r="3.2" fill="#FDC02A"/>
+  <circle cx="25" cy="46" r="2.8" fill="#FDC02A"/>
+  <circle cx="39" cy="46" r="2.8" fill="#FDC02A"/>
+</svg>

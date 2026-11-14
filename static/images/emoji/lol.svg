@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="lol">
+  <title>lol</title>
+  <circle cx="32" cy="32" r="27.5" fill="#FDC02A" stroke="#0E6F86" stroke-width="4"/>
+  <path d="M15 22 A19 19 0 0 1 26 12.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M16 25.5 L23.5 22 L16 18.5" fill="none" stroke="#1A2B3C" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M48 25.5 L40.5 22 L48 18.5" fill="none" stroke="#1A2B3C" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M15.5 33 H48.5 Q47.5 52 32 52 Q16.5 52 15.5 33 Z" fill="#1A2B3C" stroke="#1A2B3C" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M19 34.5 H45 Q44.8 37.5 44.2 38.5 H19.8 Q19.2 37.5 19 34.5 Z" fill="#FFFFFF"/>
+  <path d="M23.5 47.5 Q32 42 40.5 47.5 Q37 51 32 51 Q27 51 23.5 47.5 Z" fill="#E24A1C"/>
+  <path d="M9 27 Q3.5 33 4.5 38 A4.6 4.6 0 0 0 13.4 36.2 Q13 31 9 27 Z" fill="#7BD2DE" stroke="#0E6F86" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M55 27 Q60.5 33 59.5 38 A4.6 4.6 0 0 1 50.6 36.2 Q51 31 55 27 Z" fill="#7BD2DE" stroke="#0E6F86" stroke-width="2" stroke-linejoin="round"/>
+</svg>

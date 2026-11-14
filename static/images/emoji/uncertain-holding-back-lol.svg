@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="uncertain-holding-back-lol">
+  <title>uncertain-holding-back-lol</title>
+  <circle cx="32" cy="32" r="27.5" fill="#FDC02A" stroke="#0E6F86" stroke-width="4"/>
+  <path d="M15 22 A19 19 0 0 1 26 12.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M16 19 Q21 15.5 27 18" fill="none" stroke="#1A2B3C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M48 19 Q43 15.5 37 18" fill="none" stroke="#1A2B3C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M17.5 28.5 Q23 23 28.5 28.5" fill="none" stroke="#1A2B3C" stroke-width="3.6" stroke-linecap="round"/>
+  <path d="M35.5 28.5 Q41 23 46.5 28.5" fill="none" stroke="#1A2B3C" stroke-width="3.6" stroke-linecap="round"/>
+  <ellipse cx="16" cy="37" rx="4.6" ry="3" fill="#F28B82" opacity="0.75"/>
+  <ellipse cx="48" cy="37" rx="4.6" ry="3" fill="#F28B82" opacity="0.75"/>
+  <path d="M22 42 Q27 47.5 32 44 Q37 47.5 42 42" fill="none" stroke="#1A2B3C" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 42 L44.5 40.5" stroke="#1A2B3C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M50.5 22 Q48 26 48.5 28 A2.8 2.8 0 0 0 54 27.4 Q53.8 24.8 50.5 22 Z" fill="#7BD2DE" stroke="#0E6F86" stroke-width="1.6" stroke-linejoin="round"/>
+</svg>

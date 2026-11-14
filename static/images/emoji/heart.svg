@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="heart">
+  <title>heart</title>
+  <path d="M32 56 C20 47 6 37 6 22.5 C6 14 12.5 8 20 8 C25.5 8 29.6 11 32 15.5 C34.4 11 38.5 8 44 8 C51.5 8 58 14 58 22.5 C58 37 44 47 32 56 Z" fill="#E24A1C" stroke="#1A2B3C" stroke-width="3.2" stroke-linejoin="round"/>
+  <path d="M14 21 Q15 15 20.5 14" fill="none" stroke="#FFFFFF" stroke-opacity="0.7" stroke-width="3.4" stroke-linecap="round"/>
+</svg>

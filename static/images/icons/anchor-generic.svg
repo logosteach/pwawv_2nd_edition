@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="anchor">
+  <title>Anchor</title>
+  <!-- Generic course anchor. Original drawing: open coral hoop, short stock
+       with ball ends, slim teal shank, open horseshoe arms, pointed spade
+       flukes, and a crown knob that sits below the arms. Solid fills and
+       strokes only. -->
+
+  <!-- Open horseshoe arms -->
+  <path d="M15 41.5 A17 13.6 0 0 0 49 41.5" fill="none" stroke="#0E6F86" stroke-width="5.2" stroke-linecap="round"/>
+
+  <!-- Pointed spade flukes, up and slightly outward, ending below the stock -->
+  <path d="M15 42.8 C8.8 41 7.2 35 10.4 29.8 C12.2 26.6 16.4 26.8 17.5 31.2 C18.8 35.4 18.6 40.2 15 42.8 Z" fill="#0E6F86"/>
+  <path d="M49 42.8 C55.2 41 56.8 35 53.6 29.8 C51.8 26.6 47.6 26.8 46.5 31.2 C45.2 35.4 45.4 40.2 49 42.8 Z" fill="#0E6F86"/>
+
+  <!-- Crown knob, clearly below the arms -->
+  <circle cx="32" cy="57.6" r="3.2" fill="#0E6F86"/>
+
+  <!-- Slim rounded shank, stopping at the inner top of the arms -->
+  <rect x="29.9" y="16.6" width="4.2" height="36.2" rx="2.1" fill="#0E6F86"/>
+
+  <!-- Short stock with spherical ends that sit proud of the bar -->
+  <circle cx="18.4" cy="22.8" r="3.35" fill="#0E6F86"/>
+  <circle cx="45.6" cy="22.8" r="3.35" fill="#0E6F86"/>
+  <rect x="18.4" y="20.8" width="27.2" height="4" rx="2" fill="#0E6F86"/>
+
+  <!-- Open hoop ring in textbook coral -->
+  <circle cx="32" cy="11.5" r="7.5" fill="none" stroke="#F06024" stroke-width="3.7"/>
+</svg>

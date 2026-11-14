@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="tada">
+  <title>tada</title>
+  <!-- confetti -->
+  <path d="M34 15 Q40 8 36 4" fill="none" stroke="#0E6F86" stroke-width="3" stroke-linecap="round"/>
+  <path d="M46 26 Q53 21 60 25" fill="none" stroke="#E24A1C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M41 20 Q47 12 54 13" fill="none" stroke="#FD9C1F" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="26" cy="9" r="2.6" fill="#E24A1C"/>
+  <circle cx="57" cy="36" r="2.6" fill="#0E6F86"/>
+  <circle cx="48" cy="5.5" r="2.4" fill="#FDC02A" stroke="#1A2B3C" stroke-width="1"/>
+  <rect x="53" y="44" width="5" height="3.2" rx="0.8" fill="#FDC02A" stroke="#1A2B3C" stroke-width="1" transform="rotate(30 55.5 45.6)"/>
+  <rect x="16" y="15" width="5" height="3.2" rx="0.8" fill="#0E6F86" transform="rotate(-25 18.5 16.6)"/>
+  <rect x="58" y="14" width="4.4" height="3" rx="0.8" fill="#E24A1C" transform="rotate(40 60 15.5)"/>
+  <!-- popper cone -->
+  <path d="M5 59 L19.5 22.5 L41.5 44.5 Z" fill="#FDC02A" stroke="#1A2B3C" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M13.2 38.3 L25.7 50.8" stroke="#E24A1C" stroke-width="4.2"/>
+  <path d="M9.4 48.6 L15.4 54.6" stroke="#0E6F86" stroke-width="4.2"/>
+  <path d="M5 59 L19.5 22.5 L41.5 44.5 Z" fill="none" stroke="#1A2B3C" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="30.5" cy="33.5" rx="4.6" ry="15.6" fill="#FD9C1F" stroke="#1A2B3C" stroke-width="3" transform="rotate(-45 30.5 33.5)"/>
+</svg>

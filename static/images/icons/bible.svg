@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 66" width="72" height="66" role="img" aria-label="Bible">
+  <title>Bible</title>
+  <!-- thin white halo so the ring reads on the coral box, then the coral ring -->
+  <circle cx="36" cy="31" r="29" fill="#FFFFFF"/>
+  <circle cx="36" cy="31" r="25" fill="#FFFFFF" stroke="#E24A1C" stroke-width="6"/>
+  <!-- small Latin cross -->
+  <path d="M34.2 9.5 H37.8 V14 H42 V17.4 H37.8 V27 H34.2 V17.4 H30 V14 H34.2 Z" fill="#E24A1C"/>
+  <!-- cover (teal); spills a little past the ring -->
+  <path d="M7 34 Q21 30 36 34.5 Q51 30 65 34 L65 57 Q51 53.5 36 58.5 Q21 53.5 7 57 Z"
+        fill="#0E6F86" stroke="#0B3F4D" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- pages -->
+  <g fill="#FFFFFF" stroke="#1F2A30" stroke-width="1.5" stroke-linejoin="round">
+    <path d="M10 31.5 Q23 27.5 36 32 L36 55 Q23 50.5 10 54 Z"/>
+    <path d="M62 31.5 Q49 27.5 36 32 L36 55 Q49 50.5 62 54 Z"/>
+  </g>
+  <!-- text lines -->
+  <g fill="none" stroke="#5B6B73" stroke-width="1.4" stroke-linecap="round">
+    <path d="M14 37 Q23 34.5 32 37.4"/>
+    <path d="M14 42 Q23 39.5 32 42.4"/>
+    <path d="M14 47 Q20 45.3 26 46.6"/>
+    <path d="M58 37 Q49 34.5 40 37.4"/>
+    <path d="M58 42 Q49 39.5 40 42.4"/>
+    <path d="M58 47 Q52 45.3 46 46.6"/>
+  </g>
+  <!-- spine -->
+  <path d="M36 32 V55" stroke="#1F2A30" stroke-width="1.7" stroke-linecap="round"/>
+  <!-- gold ribbon bookmark -->
+  <path d="M34.3 54 H38.3 V64 L36.3 61.8 L34.3 64 Z" fill="#FDC02A" stroke="#B9860F" stroke-width="0.8" stroke-linejoin="round"/>
+</svg>

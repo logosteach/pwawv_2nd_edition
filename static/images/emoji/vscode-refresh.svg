@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="refresh">
+  <title>refresh</title>
+  <!-- Original clockwise circular arrow (not Microsoft codicon path data). -->
+  <path d="M44.37 21.63 A 17.5 17.5 0 1 1 32 16.5" fill="none" stroke="#424242" stroke-width="5" stroke-linecap="round"/>
+  <path d="M29.5 10.5 L42.5 16.5 L29.5 22.5 Z" fill="#424242"/>
+</svg>

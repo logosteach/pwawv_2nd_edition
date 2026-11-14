@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="new file">
+  <title>new file</title>
+  <!-- Original document-with-fold + plus (not Microsoft codicon path data). -->
+  <path d="M10 6 H35 L49 20 V45 H10 Z" fill="#FFFFFF" stroke="#424242" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M35 6 V20 H49" fill="#E8E8E8" stroke="#424242" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M52 43 V61 M43 52 H61" fill="none" stroke="#424242" stroke-width="5" stroke-linecap="round"/>
+</svg>

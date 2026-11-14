@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="code editor">
+  <title>code editor</title>
+  <defs>
+    <clipPath id="ce-tile"><rect x="5" y="5" width="54" height="54" rx="11"/></clipPath>
+  </defs>
+  <rect x="5" y="5" width="54" height="54" rx="11" fill="#1F8AD2"/>
+  <g clip-path="url(#ce-tile)">
+    <!-- darker facet on the right: a fold that gives the tile depth -->
+    <path d="M40 5 H64 V64 H30 Z" fill="#0B5FA5"/>
+    <!-- soft highlight band on the left -->
+    <path d="M5 5 H22 L10 64 H5 Z" fill="#3FA2E4"/>
+    <!-- folded page corner -->
+    <path d="M45 5 H59 V19 Z" fill="#0A4E89"/>
+    <path d="M45 5 L45 15 Q45 19 49 19 L59 19 Z" fill="#8FD0F5"/>
+  </g>
+  <rect x="5" y="5" width="54" height="54" rx="11" fill="none" stroke="#1A2B3C" stroke-width="3"/>
+  <!-- the </> code motif -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.6">
+    <path d="M23 24 L14.5 33 L23 42" stroke="#FFFFFF"/>
+    <path d="M41 24 L49.5 33 L41 42" stroke="#FFFFFF"/>
+    <path d="M35.5 21.5 L28.5 44.5" stroke="#FDC02A"/>
+  </g>
+</svg>

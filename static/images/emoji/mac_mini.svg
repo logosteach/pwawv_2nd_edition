@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="mac_mini">
+  <title>mac_mini</title>
+  <rect x="5" y="16" width="54" height="30" rx="8" fill="#C9D3D9" stroke="#1A2B3C" stroke-width="3"/>
+  <path d="M9 23 Q9 19.5 12.5 19.5 H51.5 Q55 19.5 55 23" fill="none" stroke="#FFFFFF" stroke-opacity="0.8" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M6.5 38 H57.5" stroke="#9AA8B0" stroke-width="2"/>
+  <circle cx="51" cy="42" r="1.8" fill="#7BD2DE"/>
+  <rect x="13" y="41" width="5" height="2.4" rx="1" fill="#1A2B3C"/>
+  <rect x="21" y="41" width="5" height="2.4" rx="1" fill="#1A2B3C"/>
+  <path d="M14 46 V49 H50 V46" fill="#9AA8B0" stroke="#1A2B3C" stroke-width="2.4" stroke-linejoin="round"/>
+</svg>
