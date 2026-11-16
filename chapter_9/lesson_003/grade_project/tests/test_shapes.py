@@ -1,13 +1,11 @@
 import unittest
 from shapes import Rectangle
 
-
 class TestRectangle(unittest.TestCase):
-
     def test_area(self):
-        rect = Rectangle(3, 4)                # Arrange
-        result = rect.area()                  # Act
-        self.assertEqual(result, 12)          # Assert
+        rect = Rectangle(3, 4)       # < --- Arrange
+        result = rect.area()         # < --- Act
+        self.assertEqual(result, 12) # < --- Assert
 
     def test_perimeter(self):
         rect = Rectangle(3, 4)
@@ -23,7 +21,5 @@ class TestRectangle(unittest.TestCase):
         rect = Rectangle(3, 4)
         with self.assertRaises(ValueError):
             rect.scale(0)
-
-
 if __name__ == "__main__":
     unittest.main()
