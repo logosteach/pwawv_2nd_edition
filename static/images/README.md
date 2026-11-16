@@ -63,9 +63,11 @@ These two icons were drawn as badges for specific textbook sections. They live h
 | `emoji/bug.svg` | Same stylized bug as `icons/bug.svg` |
 | `emoji/code-editor.svg` | Same editor tile as `icons/code-editor.svg`, with a slightly heavier outline |
 | `emoji/coding-in-history.svg` | Same parchment badge as `icons/coding-in-history.svg` |
+| `emoji/coffee.svg` | Steaming coffee mug with a coral heart |
 | `emoji/cross.svg` | Simple Latin cross |
 | `emoji/download.svg` | Tray with a downward arrow |
 | `emoji/frown.svg` | Frowning face |
+| `emoji/graduate.svg` | Smiling face wearing a graduation cap with a gold tassel |
 | `emoji/heart.svg` | Heart |
 | `emoji/laptop.svg` | Open laptop with a short line of “code” on the screen |
 | `emoji/left-click.svg` | Mouse with the left button highlighted |
