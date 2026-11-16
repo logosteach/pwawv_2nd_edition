@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="mailbox">
+  <title>mailbox</title>
+  <!-- post, centered under the box -->
+  <rect x="23" y="46" width="9" height="14.5" rx="1.8" fill="#5C3A21" stroke="#0E6F86" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- loaf-shaped box; right edge inset so the flag can sit clearly beside it -->
+  <path d="M7 42 V24 Q7 10 21 10 H34 Q48 10 48 24 V42 Q48 50 40 50 H15 Q7 50 7 42 Z" fill="#FBF3E4" stroke="#0E6F86" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M15 22 Q17 16 25 14.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.7" stroke-width="3" stroke-linecap="round"/>
+  <!-- door seam and handle -->
+  <path d="M39 16 V44" fill="none" stroke="#0E6F86" stroke-width="2.2" stroke-linecap="round"/>
+  <rect x="41" y="27" width="5" height="8" rx="1.6" fill="#1A2B3C"/>
+  <!-- letter slot -->
+  <rect x="14" y="26" width="18" height="5.5" rx="2.2" fill="#1A2B3C"/>
+  <!-- raised rectangular flag; arm overlaps the box stroke so it reads as attached -->
+  <path d="M48.5 32 V17 H54 V6 H62 V17 H55.5 V32 Z" fill="#E24A1C" stroke="#0E6F86" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

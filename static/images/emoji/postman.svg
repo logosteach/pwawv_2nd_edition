@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="postman">
+  <title>postman</title>
+  <!-- teal uniform shoulders (no extra bottom stroke so the hem is not clipped) -->
+  <path d="M9 60 L11 51 Q18 45 32 45 Q46 45 53 51 L55 60 Q55 62 53 62 H11 Q9 62 9 60 Z" fill="#0E6F86"/>
+  <!-- gold face -->
+  <circle cx="32" cy="34" r="21" fill="#FDC02A" stroke="#0E6F86" stroke-width="4"/>
+  <path d="M18.5 33 Q20 28 24.5 26.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="25.44" cy="32.25" rx="2.8" ry="3.85" fill="#1A2B3C"/>
+  <ellipse cx="38.56" cy="32.25" rx="2.8" ry="3.85" fill="#1A2B3C"/>
+  <path d="M21.06 39.25 H42.94 Q42.15 50.62 32 50.62 Q21.85 50.62 21.06 39.25 Z" fill="#1A2B3C" stroke="#1A2B3C" stroke-width="1.4" stroke-linejoin="round"/>
+  <path d="M25.88 47.3 Q32 43.45 38.12 47.3 Q35.85 49.93 32 49.93 Q28.15 49.93 25.88 47.3 Z" fill="#E24A1C"/>
+  <!-- satchel with a cream envelope peeking out -->
+  <rect x="46" y="39" width="12" height="9" rx="1.2" fill="#FBF3E4" stroke="#0E6F86" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M46 41.2 L52 45 L58 41.2" fill="none" stroke="#0E6F86" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 49 H60 V59 Q60 61 58 61 H44 Q42 61 42 59 Z" fill="#5C3A21" stroke="#0E6F86" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M41.5 48 H60.5 L51 55 Z" fill="#5C3A21" stroke="#0E6F86" stroke-width="3" stroke-linejoin="round"/>
+  <!-- visor -->
+  <ellipse cx="32" cy="16.5" rx="20" ry="5.2" fill="#1A2B3C" stroke="#0E6F86" stroke-width="3"/>
+  <!-- cap crown -->
+  <path d="M16 16 Q16 4 32 4 Q48 4 48 16 Z" fill="#1A2B3C" stroke="#0E6F86" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M20 11 Q24 7.5 28 8" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- gold badge (plain disc, no official mark) -->
+  <circle cx="32" cy="10.5" r="4" fill="#FDC02A" stroke="#0E6F86" stroke-width="1.6"/>
+</svg>

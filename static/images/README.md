@@ -66,6 +66,7 @@ These two icons were drawn as badges for specific textbook sections. They live h
 | `emoji/coffee.svg` | Steaming coffee mug with a coral heart |
 | `emoji/cross.svg` | Simple Latin cross |
 | `emoji/download.svg` | Tray with a downward arrow |
+| `emoji/envelope.svg` | Sealed letter with a stamp and a wax seal |
 | `emoji/frown.svg` | Frowning face |
 | `emoji/graduate.svg` | Smiling face wearing a graduation cap with a gold tassel |
 | `emoji/heart.svg` | Heart |
@@ -77,7 +78,9 @@ These two icons were drawn as badges for specific textbook sections. They live h
 | `emoji/mac.svg` | Compact computer with a four-circle grid on the screen |
 | `emoji/mac_mini.svg` | Small silver desktop box |
 | `emoji/mad.svg` | Angry face |
+| `emoji/mailbox.svg` | Curbside mailbox with a raised flag |
 | `emoji/microcontroller.svg` | Small development board with header pins |
+| `emoji/postman.svg` | Friendly mail carrier with a cap and satchel |
 | `emoji/right-click.svg` | Mouse with the right button highlighted |
 | `emoji/rocket.svg` | Rocket |
 | `emoji/sad.svg` | Sad face |

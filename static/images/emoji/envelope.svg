@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="envelope">
+  <title>envelope</title>
+  <!-- body -->
+  <path d="M6 18 H58 Q61 18 61 21 V50 Q61 56 55 56 H9 Q3 56 3 50 V21 Q3 18 6 18 Z" fill="#FBF3E4" stroke="#0E6F86" stroke-width="4" stroke-linejoin="round"/>
+  <!-- sealed flap folds, stopping at the wax seal (stamp draws on top of the right fold) -->
+  <path d="M6 18 L26.35 33.65" fill="none" stroke="#0E6F86" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M58 18 L37.65 33.65" fill="none" stroke="#0E6F86" stroke-width="3.2" stroke-linecap="round"/>
+  <!-- highlight along the upper-left edge -->
+  <path d="M9 28 Q10 23 14 21" fill="none" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="2.6" stroke-linecap="round"/>
+  <!-- generic stamp (gold plate + teal star; not a real issue) -->
+  <rect x="43.5" y="21" width="14" height="16" rx="1.8" fill="#FDC02A" stroke="#0E6F86" stroke-width="2"/>
+  <path d="M50.50 23.80 L51.50 26.62 L54.49 26.70 L52.12 28.53 L52.97 31.40 L50.50 29.70 L48.03 31.40 L48.88 28.53 L46.51 26.70 L49.50 26.62 Z" fill="#0E6F86"/>
+  <!-- coral wax seal with cream heart -->
+  <circle cx="32" cy="40" r="7.2" fill="#E24A1C" stroke="#0E6F86" stroke-width="2"/>
+  <path d="M32 45 C26.8 41.4 27.5 37.6 30.1 37.6 C31.2 37.6 32 38.7 32 39.5 C32 38.7 32.8 37.6 33.9 37.6 C36.5 37.6 37.2 41.4 32 45 Z" fill="#FBF3E4"/>
+</svg>
