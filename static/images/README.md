@@ -60,6 +60,11 @@ These two icons were drawn as badges for specific textbook sections. They live h
 | `emoji/arrow-right.svg` | Right arrow, in textbook teal |
 | `emoji/arrow-right-circle.svg` | White right arrow in a filled teal circle |
 | `emoji/arrow-up.svg` | Up arrow, in textbook teal |
+| `emoji/brick-blue.svg` | Blue 2×2 building brick |
+| `emoji/brick-green.svg` | Green 2×3 building brick |
+| `emoji/brick-orange.svg` | Orange 2×2 slope brick |
+| `emoji/brick-red.svg` | Coral 2×4 building brick |
+| `emoji/brick-yellow.svg` | Gold 1×2 building brick |
 | `emoji/bug.svg` | Same stylized bug as `icons/bug.svg` |
 | `emoji/code-editor.svg` | Same editor tile as `icons/code-editor.svg`, with a slightly heavier outline |
 | `emoji/coding-in-history.svg` | Same parchment badge as `icons/coding-in-history.svg` |
