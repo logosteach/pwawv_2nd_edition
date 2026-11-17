@@ -75,6 +75,7 @@ These two icons were drawn as badges for specific textbook sections. They live h
 | `emoji/frown.svg` | Frowning face |
 | `emoji/graduate.svg` | Smiling face wearing a graduation cap with a gold tassel |
 | `emoji/heart.svg` | Heart |
+| `emoji/jeans.svg` | Blue jeans with a gold button and pocket stitching |
 | `emoji/laptop.svg` | Open laptop with a short line of “code” on the screen |
 | `emoji/left-click.svg` | Mouse with the left button highlighted |
 | `emoji/linux.svg` | Cartoon penguin, used to mark Linux |
@@ -85,6 +86,7 @@ These two icons were drawn as badges for specific textbook sections. They live h
 | `emoji/mad.svg` | Angry face |
 | `emoji/mailbox.svg` | Curbside mailbox with a raised flag |
 | `emoji/microcontroller.svg` | Small development board with header pins |
+| `emoji/outfit.svg` | Coral T-shirt and blue jeans |
 | `emoji/postman.svg` | Friendly mail carrier with a cap and satchel |
 | `emoji/right-click.svg` | Mouse with the right button highlighted |
 | `emoji/rocket.svg` | Rocket |
@@ -95,6 +97,7 @@ These two icons were drawn as badges for specific textbook sections. They live h
 | `emoji/tada.svg` | Party popper with confetti |
 | `emoji/terminal.svg` | Terminal window |
 | `emoji/ticket.svg` | Admission ticket |
+| `emoji/tshirt.svg` | Coral crew-neck T-shirt |
 | `emoji/uncertain-holding-back-lol.svg` | Face holding back a laugh |
 | `emoji/uncertain-unamused.svg` | Unamused face |
 | `emoji/uncertain-worried.svg` | Worried face |
