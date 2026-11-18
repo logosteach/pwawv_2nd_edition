@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="neighborhood">
+  <title>neighborhood</title>
+  <!-- gentle green ground -->
+  <path d="M3 55.5
+           Q16 52.2 32 53
+           Q48 53.8 61 52.4
+           Q62.5 54.5 61 58
+           Q48 61.5 32 61.2
+           Q14 60.8 3.5 58
+           Q1.8 56.5 3 55.5 Z"
+        fill="#3FA34D" stroke="#0E6F86" stroke-width="2.8" stroke-linejoin="round"/>
+  <!-- LEFT house, coral roof — fully separate -->
+  <path d="M4 55 V39.5 H19.2 V55 Z"
+        fill="#FBF3E4" stroke="#0E6F86" stroke-width="3.1" stroke-linejoin="round"/>
+  <path d="M2.6 40.2 L11.6 26.5 L20.6 40.2 Z"
+        fill="#E24A1C" stroke="#0E6F86" stroke-width="3.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="8.6" y="43.2" width="6.2" height="6.2" rx="0.9" fill="#FDC02A" stroke="#0E6F86" stroke-width="1.5"/>
+  <!-- RIGHT house, brown roof — fully separate -->
+  <path d="M44.8 55 V39.5 H60.2 V55 Z"
+        fill="#FBF3E4" stroke="#0E6F86" stroke-width="3.1" stroke-linejoin="round"/>
+  <path d="M43.4 40.2 L52.5 26.5 L61.6 40.2 Z"
+        fill="#5C3A21" stroke="#0E6F86" stroke-width="3.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="49.4" y="43.2" width="6.2" height="6.2" rx="0.9" fill="#FDC02A" stroke="#0E6F86" stroke-width="1.5"/>
+  <!-- CENTER house, navy roof, a little taller, with a gap on each side -->
+  <path d="M24.6 55 V37 H39.6 V55 Z"
+        fill="#FBF3E4" stroke="#0E6F86" stroke-width="3.1" stroke-linejoin="round"/>
+  <path d="M23.0 37.8 L32.1 22.5 L41.2 37.8 Z"
+        fill="#1A2B3C" stroke="#0E6F86" stroke-width="3.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M26.4 30.2 Q29.2 26.2 32.4 25.4" fill="none" stroke="#FFFFFF" stroke-opacity="0.4" stroke-width="1.8" stroke-linecap="round"/>
+  <rect x="29.0" y="41.6" width="6.4" height="6.4" rx="0.9" fill="#FDC02A" stroke="#0E6F86" stroke-width="1.5"/>
+  <!-- small tree in the gap between the left and center houses -->
+  <path d="M20.2 55 L20.2 48.5 L23.0 48.5 L23.0 55 Z"
+        fill="#5C3A21" stroke="#0E6F86" stroke-width="2.0" stroke-linejoin="round"/>
+  <circle cx="21.6" cy="44.4" r="6.0" fill="#3FA34D" stroke="#0E6F86" stroke-width="2.4"/>
+  <path d="M18.6 42.6 Q21.0 40.4 23.8 41.4" fill="none" stroke="#FFFFFF" stroke-opacity="0.4" stroke-width="1.6" stroke-linecap="round"/>
+  <!-- small crescent moon, upper right, clear of the roofs -->
+  <path d="M50.8 7.0
+           A 7.2 7.2 0 1 0 58.4 18.2
+           A 5.3 5.3 0 1 1 50.8 7.0
+           Z"
+        fill="#FDC02A" stroke="#0E6F86" stroke-width="2.2" stroke-linejoin="round"/>
+</svg>

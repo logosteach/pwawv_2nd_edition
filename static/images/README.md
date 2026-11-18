@@ -69,11 +69,13 @@ These two icons were drawn as badges for specific textbook sections. They live h
 | `emoji/code-editor.svg` | Same editor tile as `icons/code-editor.svg`, with a slightly heavier outline |
 | `emoji/coding-in-history.svg` | Same parchment badge as `icons/coding-in-history.svg` |
 | `emoji/coffee.svg` | Steaming coffee mug with a coral heart |
+| `emoji/community-circle.svg` | Five friends standing in a circle holding hands |
 | `emoji/cross.svg` | Simple Latin cross |
 | `emoji/download.svg` | Tray with a downward arrow |
 | `emoji/envelope.svg` | Sealed letter with a stamp and a wax seal |
 | `emoji/frown.svg` | Frowning face |
 | `emoji/graduate.svg` | Smiling face wearing a graduation cap with a gold tassel |
+| `emoji/group-photo.svg` | Four people standing together for a photo |
 | `emoji/heart.svg` | Heart |
 | `emoji/jeans.svg` | Blue jeans with a gold button and pocket stitching |
 | `emoji/laptop.svg` | Open laptop with a short line of “code” on the screen |
@@ -86,6 +88,7 @@ These two icons were drawn as badges for specific textbook sections. They live h
 | `emoji/mad.svg` | Angry face |
 | `emoji/mailbox.svg` | Curbside mailbox with a raised flag |
 | `emoji/microcontroller.svg` | Small development board with header pins |
+| `emoji/neighborhood.svg` | Three quiet houses with lit windows, a tree, and a crescent moon |
 | `emoji/outfit.svg` | Coral T-shirt and blue jeans |
 | `emoji/postman.svg` | Friendly mail carrier with a cap and satchel |
 | `emoji/right-click.svg` | Mouse with the right button highlighted |
