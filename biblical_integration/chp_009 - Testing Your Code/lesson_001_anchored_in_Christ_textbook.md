@@ -26,7 +26,8 @@ notes: |
   Add new information, teaching notes, discussion questions, or cross-references here or in the Notes section below.
 ---
 
-::: anchored-in-christ
+## Anchored in Christ
+
 I want to take a moment and reflect on something we have learned today and try to make a connection with something that God reveals to us in His word. The word I am thinking of is *regression*. In today's lesson we learned that a regression is a bug that creeps back in, or something that breaks, right after we changed code we thought we were improving.[^1]
 
 We are all like that in real life, aren't we? God is very clear and specific about the kind of life and liberty He has given and called us to in His Son. But many times we think we need to adjust, or fix things a little, because clearly, "God just doesn't understand that my case is just a little bit different. I cannot forgive that person. He just does not understand what they did to me." or perhaps, "If I don't go with the crowd, then all my friends are going to think I am strange. I might even get cancelled."[^2]
