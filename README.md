@@ -16,6 +16,7 @@ This repository links the reader to the public files associated with the text bo
 - [Chapter 11](chapter_11/)
 - [Project 1](project_1/)
 - [Project 2](project_2/)
+- [Setup guides](setup/)
 - [Course images](static/images/)
 
 ## File tree
@@ -36,6 +37,7 @@ pwawv_2nd_edition/
 ├── chapter_11/
 ├── project_1/
 ├── project_2/
+├── setup/
 └── static/
     └── images/
 ```
