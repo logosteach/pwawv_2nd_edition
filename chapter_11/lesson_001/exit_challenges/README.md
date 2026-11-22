@@ -10,4 +10,4 @@ Copy a solution's files into the matching places in your `project_2` folder, kee
 | Frontend: Your Own Style | [frontend_your_own_style](frontend_your_own_style/) |
 | Database: Topic Statistics | [database_topic_statistics](database_topic_statistics/) |
 
-Each challenge is independent and starts from the end of Lesson 1. You can complete one, or all three.
+Each challenge is independent and starts from the [end of Lesson 1](../end_of_lesson/) project. You can complete one, or all three.
