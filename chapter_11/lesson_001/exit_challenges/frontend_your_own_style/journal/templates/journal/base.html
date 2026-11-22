@@ -1,0 +1,10 @@
+<!-- project_2/journal/templates/journal/base.html -->
+{% load static %}
+<link rel="stylesheet" href="{% static 'css/custom.css' %}">
+<p>
+    <a href="{% url 'journal:index' %}">
+        <img src="{% static 'resources/images/journal.png' %}" alt="My Prayer Journal"/>
+    </a>
+    - <a href="{% url 'journal:topics' %}">Prayer Topics</a>
+</p>
+{% block content %}{% endblock content %}

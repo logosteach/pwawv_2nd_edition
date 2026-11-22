@@ -1,0 +1,9 @@
+<!-- project_2/journal/templates/journal/index.html -->
+{% extends "journal/base.html" %}
+
+{% block content %}
+<h1>My Prayer Journal</h1>
+
+<p>Welcome to your prayer journal. Here you can keep track of the things you're praying about.</p>
+<p>Topics: {{ topic_count }}. Entries: {{ entry_count }}.</p>
+{% endblock content %}

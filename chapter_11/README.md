@@ -11,3 +11,11 @@ To create a Python virtual environment on Windows 11, macOS, or Linux, follow th
 ## Images
 
 - [journal.png](images/journal.png): the small logo for the prayer journal site (Lesson 1). Save it in your `project_2/static/resources/images` folder.
+
+## Lesson 1 Exit Challenges
+
+Solutions for the three Exit Challenges in Lesson 1 are in [lesson_001/exit_challenges](lesson_001/exit_challenges/). Try each challenge yourself first, then compare:
+
+- [Backend: Answered Prayers](lesson_001/exit_challenges/backend_answered_prayers/)
+- [Frontend: Your Own Style](lesson_001/exit_challenges/frontend_your_own_style/)
+- [Database: Topic Statistics](lesson_001/exit_challenges/database_topic_statistics/)

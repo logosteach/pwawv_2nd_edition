@@ -1,0 +1,14 @@
+<!-- project_2/journal/templates/journal/topics.html -->
+{% extends "journal/base.html" %}
+
+{% block content %}
+<h1>Prayer Topics</h1>
+
+<ul>
+    {% for topic in topics %}
+        <li><a href="{% url 'journal:topic' topic.id %}">{{ topic.text }}</a> ({{ topic.entry_set.count }})</li>
+    {% empty %}
+        <li>No prayer topics have been added yet.</li>
+    {% endfor %}
+</ul>
+{% endblock content %}
